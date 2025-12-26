@@ -11,7 +11,7 @@
 | Himansh Arora           | Humanshere           | IIIT Allahabad                 | 
 | Himanshu Arora          | HimanshuArora-pixel  | IIIT Allahabad                 |
 | Shambhu                 | Zarxeon              | IIIT Allahabad                 |
-
+| Rushal Verma            | Rushalverma          | IIIT allahabad                 |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
