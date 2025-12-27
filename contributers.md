@@ -28,7 +28,6 @@
 | Kushagra Sahu          |       KushagraSahu-01           |IIIT Allahabad      |
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
-<<<<<<< HEAD
 | Khushi Shorey | khushishorey | IIIT Allahabad |
 | Ishan Raj Singh | ishanrajsingh | Amity Noida |
 | Spandana Surepally | Spandana-S16 | IIIT Allahabad |
@@ -50,5 +49,6 @@
 | Roshan Gupta| roshangupta4804-hue |  |  IIIT Allahabad | 
 | Ansh Patel             | ansh54052           | IIIT Allahabad                  |
 <!-- ADD ABOVE THIS -->
+| Sahil                   |Sahil-git005          | IIIT Allahabad               |
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
